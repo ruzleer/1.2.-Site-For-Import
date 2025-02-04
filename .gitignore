@@ -1,5 +1,8 @@
+#Ignore tmp catalogue
 tmp/
+#Ignore files with suff
 *_old
 *_backup
+#Ignore hidden
 Thumbs.db
 .DS_Store
